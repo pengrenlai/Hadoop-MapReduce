@@ -2,4 +2,4 @@
 implementation of algorithms with Hadoop MapReduce
 
 ## PageRank
-![Top 10 PageRank](https://imgur.com/a/SBKaAIz)
+![](https://drive.google.com/open?id=1nCJCaEAcvVHyKuym_aiBLmYitYRQXECz)
