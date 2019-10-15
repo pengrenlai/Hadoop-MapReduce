@@ -19,6 +19,7 @@ Step 2： Renormalize r to re-insert the leaked PageRank casued by 'dead-ends'�
 ![Comparison_1](K-means/Comparison_1.PNG)
 
 c1：randomly initialized centroids
+
 c2：centroids which are as far apart as possible
 
 ![K-means_algo](K-means/K-means_algo.PNG)
