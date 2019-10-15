@@ -30,5 +30,5 @@ c2：centroids which are as far apart as possible
 ## Apriori
 ![result](Apriori/Apriori_result.PNG)
 
-### We set the support threshold 60 and get four 4-frequent itemsets. Based on these itemsets, associasion rules can be generated.
+### We set the support threshold as 60 and get four 4-frequent itemsets. Based on these itemsets, associasion rules can be generated.
 
